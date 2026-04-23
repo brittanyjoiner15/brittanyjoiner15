@@ -4,7 +4,7 @@ Thanks for stopping by! I like to build stuff, sometimes I use code, sometimes I
 
 
 - Passionate about helping folks transition to dev careers and learn to code
-- Software Engineer @ Elastic
+- Developer Relations @ PixieBrix
+- ex-Elastician
 - Trello nerd
-- Currently maintaining [Eui Event Template](https://github.com/brittanyjoiner15/eui-event-template) _(and would love to have another maintainer! if that's you [DM me](https://twitter.com/britt_joiner))_
-
+- Currently building [RoamLogs](https://roamlogs.com/) and [StashCurator](https://www.stashcurator.com/)
